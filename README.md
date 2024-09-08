@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sacha and I'm a Software Engineer, from the UK</p>
+<p align="left">My name is Sacha and I'm a Software Engineer from the UK</p>
 
 ###
 
